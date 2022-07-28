@@ -1,6 +1,6 @@
 # Library Management System
 
-Simple basic voice searching with the help of python and by using some libraries
+
 
 ## Usage
 
