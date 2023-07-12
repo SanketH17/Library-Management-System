@@ -1,6 +1,6 @@
 ## Library Management System
 
-Tech Stack: HTML, CSS, JavaScript, MySQL, PHP, XAMPP, Bootstrap
+**Tech Stack: HTML, CSS, JavaScript, MySQL, PHP, XAMPP, Bootstrap**
 
 ### Usage
 
